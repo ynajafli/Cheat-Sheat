@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: gainsboro;
+}
+
+table {
+    border: 2px solid rgb(11, 113, 145);
+    margin: 0 auto;
+    width: 650px;
+}
+
+thead {
+    background-color: rgb(157, 181, 212);
+}
+
+td {
+    border-top: 1px solid rgb(11, 113, 145);
+}
+
+.tag {
+    background-color: beige;
+    font-family: monospace;
+}
+
+h2 {
+    color: rgb(59, 59, 165)
+}
+
